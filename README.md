@@ -80,25 +80,37 @@ dotnet test
 - OpenAPI
 - Domain Tests
 
-### Sprint 2
+## Sprint 2 – React Integration
+
+- Added React + TypeScript frontend using Vite
+- Connected frontend to ASP.NET Core API
+- Added typed Product model
+- Implemented API service layer
+- Added loading and error states
+- Added product list rendering
+- Added clickable products
+- Added product detail view using `GET /api/products/{id}`
+- Configured CORS for local React development
+
+### Sprint 3
 
 - EF Core
 - SQL Server
 - CRUD
 
-### Sprint 3
+### Sprint 4
 
 - Authentication
 - Validation
 - Exception Handling
 
-### Sprint 4
+### Sprint 5
 
 - Docker
 - CI/CD
 - React
 
-### Sprint 5
+### Sprint 6
 
 - Semantic Kernel
 - AI Features
